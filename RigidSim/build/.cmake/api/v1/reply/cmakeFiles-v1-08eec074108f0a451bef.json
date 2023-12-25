@@ -1,0 +1,316 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.25.0/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.25.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.25.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "dep/glfw/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindDoxygen.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindX11.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindFreetype.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindFontconfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "dep/glfw/src/glfw3Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/thefrogignotus/miniconda3/envs/f2nerf/lib/python3.8/site-packages/cmake/data/share/cmake-3.25/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
+		},
+		{
+			"path" : "dep/glfw/src/glfw_config.h.in"
+		},
+		{
+			"path" : "dep/glfw/src/glfw3.pc.in"
+		},
+		{
+			"path" : "dep/glfw/cmake_uninstall.cmake.in"
+		},
+		{
+			"path" : "dep/glfw/src/CMakeLists.txt"
+		},
+		{
+			"path" : "dep/glfw/examples/CMakeLists.txt"
+		},
+		{
+			"path" : "dep/glfw/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "dep/glm/CMakeLists.txt"
+		},
+		{
+			"path" : "dep/glm/glm/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/mnt/d/slam/postgraduate/gde1smt1/CG/OpenGL/RigidSim/build",
+		"source" : "/mnt/d/slam/postgraduate/gde1smt1/CG/OpenGL/RigidSim"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
